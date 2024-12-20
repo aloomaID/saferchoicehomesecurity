@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://saferchoicehomesecurity.pro/sitemap_index.xml
